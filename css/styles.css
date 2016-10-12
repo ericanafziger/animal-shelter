@@ -15,3 +15,15 @@ img {
 h1 {
   text-align: center;
 }
+
+.column h2 {
+  font-weight: bolder;
+  text-align: center;
+}
+
+.column p {
+  background-color: lightgrey;
+  border: 2px solid darkgrey;
+  padding:10px
+
+}
