@@ -1,0 +1,17 @@
+.column {
+  float: left;
+  width: 400px;
+  text-align: justify;
+  padding: 10px;
+}
+
+img {
+  width: 300px;
+}
+
+.clear {
+  clear: left;
+}
+h1 {
+  text-align: center;
+}
